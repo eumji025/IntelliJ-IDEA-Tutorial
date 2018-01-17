@@ -11,7 +11,7 @@
 > * [CLion](http://www.jetbrains.com/clion/ "CLion 主要用于开发 C/C++") 主要用于开发 C / C++
 > * [WebStorm](http://www.jetbrains.com/webstorm/ "WebStorm 主要用于开发 JavaScript 等前端技术") 主要用于开发 JavaScript、HTML5、CSS3 等前端技术
 > * [0xDBE](http://www.jetbrains.com/dbe/ "0xDBE 主要用于开发 SQL") 主要用于开发 SQL
-> * [Android Studio](http://developer.android.com/tools/studio/ "Android Studio 主要用于开发 Android") 主要用于开发 Android（Google 基本 IntelliJ IDEA 社区版进行迭代所以也姑且算上）
+> * [Android Studio](http://developer.android.com/tools/studio/ "Android Studio 主要用于开发 Android") 主要用于开发 Android（Google 基于 IntelliJ IDEA 社区版进行迭代所以也姑且算上）
 
 ## IntelliJ IDEA 介绍
 
@@ -46,7 +46,7 @@ IntelliJ IDEA 对自己的定义是很清晰的，对于新人来讲可能还不
 |:--------------|:--------------------|:----------|
 |Spring MVC     |HTML5         |Tomcat     |
 |GWT            |CSS3          |TomEE      |
-|Vaadin         |SASS          |WebLogin   |
+|Vaadin         |SASS          |WebLogic   |
 |Play           |LESS          |JBoss      |
 |Grails         |JavaScript    |Jetty      |
 |Web Services   |CoffeeScript  |WebSphere  |
@@ -57,12 +57,22 @@ IntelliJ IDEA 对自己的定义是很清晰的，对于新人来讲可能还不
 
 上面特性只是 IntelliJ IDEA 的冰山一角，而且这个还不是 IntelliJ IDEA 最重要的地方，IntelliJ IDEA 最重要的特性就是人性化、智能，后面学习你会慢慢接触到。
 
-## 更多官网信息
+## 更多官方学习信息
 
 > * IntelliJ IDEA 主要特性介绍 1：<https://www.jetbrains.com/idea/features/>
 > * IntelliJ IDEA 主要特性介绍 2：<https://www.jetbrains.com/idea/features/editions_comparison_matrix.html>
-> * 官网博客：<http://blog.jetbrains.com/idea/>
-> * 官网 wiki：<http://wiki.jetbrains.net/intellij>
-> * 官网社区：<http://devnet.jetbrains.com/community/idea>
-> * 官网快速入门：<http://confluence.jetbrains.com/display/IntelliJIDEA/Quick+Start>
-> * 官网在线帮助文档：<http://www.jetbrains.com/idea/webhelp/getting-help.html>
+> * 官方快速入门：<http://confluence.jetbrains.com/display/IntelliJIDEA/Quick+Start>
+> * 官方在线帮助文档：<http://www.jetbrains.com/idea/webhelp/getting-help.html>
+> * 官方 wiki：<http://wiki.jetbrains.net/intellij>
+
+## 更多官方资讯跟踪途径
+
+> * 官方博客：<http://blog.jetbrains.com/idea/>
+> * IntelliJ IDEA 官方 community：<https://intellij-support.jetbrains.com/hc/en-us/community/topics>
+> * IntelliJ IDEA 官方 issue：<https://youtrack.jetbrains.com/issues/IDEA>
+> * YouTube：<https://www.youtube.com/user/intellijideavideo>
+> * Twitter：<https://twitter.com/IntelliJIDEA>
+> * Facebook：<https://www.facebook.com/IntelliJIDEA>
+> * JetBrains 新浪微博：<http://www.weibo.com/u/3220313942>
+> * JetBrains Google+：<https://plus.google.com/+jetbrains>
+> * IntelliJ IDEA Google+：<https://plus.google.com/+intellijidea>
