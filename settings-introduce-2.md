@@ -33,6 +33,7 @@ IntelliJ IDEA 有很多人性化的设置我们必须单独拿出来讲解，也
 
 ![常用设置](images/xxvi-a-settings-introduce-30.gif)
 
+<<<<<<< HEAD
 > * 如上图 Gif 所示，我们选中要被折叠的代码按 `Ctrl + Alt + T` 快捷键，选择自定义折叠代码区域功能。
 
 ![常用设置](images/xxvi-a-settings-introduce-31.gif)
@@ -112,3 +113,6 @@ IntelliJ IDEA 有很多人性化的设置我们必须单独拿出来讲解，也
 
 
 
+=======
+> * 如上图 Gif 所示，我们选中要被折叠的代码按 `Ctrl + Alt + T` 快捷键，选择自定义折叠代码区域功能。
+>>>>>>> 8def210addc57af96dccb6248d5a2f2f8f4c6688

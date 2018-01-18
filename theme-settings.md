@@ -1,10 +1,10 @@
-# IntelliJ IDEA 主题、字体、编辑区主题、文件编码修改
+# IntelliJ IDEA 主题、字体、编辑区主题、文件编码修改、乱码问题
 
 ## 主题修改 
 
 ![主题修改](images/x-a-theme-setting-1.jpg)
 
-> * 上图标注 1 所示为 IntelliJ IDEA 修改主题的地方，在 Windows 系统上 IntelliJ IDEA 默认提供的主题有四套：`Darcula`、`IntelliJ`、`Windows`、`Alloy. IDEA Theme`。除了 `Darcula` 是黑色主题，其他三套都是以白色为背景的。
+> * 上图标注 1 所示为 IntelliJ IDEA 修改主题的地方，可以通过打开左上角的File -> Setting。在 Windows 系统上 IntelliJ IDEA 默认提供的主题有四套：`Darcula`、`IntelliJ`、`Windows`、`Alloy. IDEA Theme`。除了 `Darcula` 是黑色主题，其他三套都是以白色为背景的。
 > * 其他操作系统上不一定会也有四套主题的，主题的选择上大家根据自己喜好即可。改变主题需要重启 IntelliJ IDEA 方可看到效果。
 
 ## 字体修改
@@ -46,7 +46,7 @@
 > * 如上图红圈下拉所示，展示的是我当前电脑可以选择的编辑区主题。
 > * 对于编辑区的主题，也有人制作成模板在网络上提供下载。这里主要介绍两个站点：
 >
->> * <http://www.ideacolorthemes.org/themes/>，主要提供 jar 文件下载。
+>> * <http://color-themes.com/?view=index>，主要提供 jar 文件下载。
 >> * <http://www.phpstorm-themes.com/>，主要提供 xml 和 icl 文件下载。
 >> * 对应文件如何安装请查看网站对应的 `Help` 页面，都有详细说明的。
 
@@ -86,14 +86,20 @@
 
 > * 编译报错：`找不到符号`、`未结束的字符串文字` 等的解决办法：
 >
->> * 由于 UTF-8 编码文件有分 `有BOM` 和 `无BOM` 之分，默认情况下 IntelliJ IDEA 使用的编译器是 `javac`，而此编译只能编译 `无BOM` 的文件，有很多 Eclipse 用户在使用 IntelliJ IDEA 开发 Eclipse 项目的时候常常会遇到此问题。主要是因为 Eclipse 的编译器是 `Eclipse`，此编译器支持 `有BOM` 的文件编译。顾，解决办法是对于此文件进行 BOM 去除。
+>> * 由于 UTF-8 编码文件有分 `有BOM` 和 `无BOM` 之分，默认情况下 IntelliJ IDEA 使用的编译器是 `javac`，而此编译只能编译 `无BOM` 的文件，有很多 Eclipse 用户在使用 IntelliJ IDEA 开发 Eclipse 项目的时候常常会遇到此问题。主要是因为 Eclipse 的编译器是 `Eclipse`，此编译器支持 `有BOM` 的文件编译。故，解决办法是对于此文件进行 BOM 去除。
 >> * 批量去除 BOM，你可以 Google：`批量去除 BOM`、`批量转换无 BOM` 等关键字，网络上已有提供各种方案。
 >> * 除了通过去除 BOM 还有设置 IntelliJ IDEA 的编译器为 `Eclipse`，但是一般不建议这样做。
 >> * 如果上述问题都无法解决，而且你也确认 IntelliJ IDEA 各个配置编码的地方都是 `UTF-8`，报错文件编码也是是  `UTF-8 无 BOM` 的话，那还有一种可能也会出现这种情况：项目配置文件有问题。项目编码的配置文件在：`/项目目录/.idea/encodings.xml`。如果你会修改此文件可以进行修改，如果不会，那就删除掉 `.idea` 整个目录，重启 IntelliJ IDEA 重新配置这个项目即可。
 
+## Tomcat 控制台输出乱码
+
+![Tomcat 控制台输出乱码](images/x-e-encoding-setting-1.jpg)
+
+- 如果你的 Tomcat 控制台输出乱码，并且你已经保证了本文上面的控制台字体设置你设置的字体包含中文，那你还可以尝试下在 Tomcat 的 VM 参数上加上：`-Dfile.encoding=UTF-8`
+- 如果你是 Mac 系统，很有可能是需要的。
 
 ## 编程字体推荐
 
-- 下载地址（6380）：<https://yunpan.cn/cYCDxtdUHqcxx>
+- 下载地址：<http://pan.baidu.com/s/1kVoF32R>
   - Microsoft YaHei Consolas
   - Microsoft YaHei Mono

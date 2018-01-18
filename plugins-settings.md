@@ -41,7 +41,11 @@
 
 |插件名称    |插件介绍      |官网地址        |
 |:-----------------|:----------|:--------------|
+|GitOSC|开源中国的码云插件|<https://plugins.jetbrains.com/plugin/8383-gitosc>|
+|Alibaba Java Coding Guidelines|阿里巴巴出的代码规范检查插件|https://plugins.jetbrains.com/plugin/10046-alibaba-java-coding-guidelines|
+|IDE Features Trainer|IntelliJ IDEA 官方出的学习辅助插件|<https://plugins.jetbrains.com/plugin/8554?pr=idea>|
 |Key promoter|快捷键提示|<https://plugins.jetbrains.com/plugin/4455?pr=idea>|
+|Grep Console|自定义设置控制台输出颜色|<https://plugins.jetbrains.com/idea/plugin/7125-grep-console>|
 |String Manipulation|驼峰式命名和下划线命名交替变化|<https://plugins.jetbrains.com/plugin/2162?pr=idea>|
 |CheckStyle-IDEA|代码规范检查|<https://plugins.jetbrains.com/plugin/1065?pr=idea>|
 |FindBugs-IDEA|潜在 Bug 检查|<https://plugins.jetbrains.com/plugin/3847?pr=idea>|
@@ -50,7 +54,17 @@
 |JRebel Plugin|热部署|<https://plugins.jetbrains.com/plugin/?id=4441>|
 |CodeGlance|在编辑代码最右侧，显示一块代码小地图|<https://plugins.jetbrains.com/plugin/7275?pr=idea>|
 |GsonFormat|把 JSON 字符串直接实例化成类|<https://plugins.jetbrains.com/plugin/7654?pr=idea>|
-|MultiMarkdown|书写 Markdown 文章|<https://plugins.jetbrains.com/plugin/7896?pr=idea>|
+|Markdown Navigator|书写 Markdown 文章|<https://plugins.jetbrains.com/plugin/7896?pr=idea>|
 |Eclipse Code Formatter|使用 Eclipse 的代码格式化风格，在一个团队中如果公司有规定格式化风格，这个可以使用。|<https://plugins.jetbrains.com/plugin/6546?pr=idea>|
 |Jindent-Source Code Formatter|自定义类、方法、doc、变量注释模板|<http://plugins.jetbrains.com/plugin/2170?pr=idea>|
+|Translation|翻译插件|<https://github.com/YiiGuxing/TranslationPlugin>|
+|Maven Helper|Maven 辅助插件|<https://plugins.jetbrains.com/plugin/7179-maven-helper>|
+|Properties to YAML Converter|把 Properties 的配置格式改为 YAML 格式|<https://plugins.jetbrains.com/plugin/8000-properties-to-yaml-converter>|
+|Git Flow Integration|Git Flow 的图形界面操作|<https://plugins.jetbrains.com/plugin/7315-git-flow-integration>|
 
+## lombok 插件的使用
+
+- lombok 插件官网：<https://plugins.jetbrains.com/plugin/6317-lombok-plugin>
+- 推荐 IntelliJ IDEA 插件库搜索安装：
+	- <kbd>File</kbd> > <kbd>Settings</kbd> > <kbd>Plugins</kbd> > <kbd>Browse repositories...</kbd> > <kbd>Search for "lombok"</kbd> > <kbd>Install Plugin</kbd>
+- IntelliJ IDEA 配置方法，官网有说明（该配置是 Project 级别，不是 IDE 全局的）：<https://github.com/mplushnikov/lombok-intellij-plugin#required-intellij-configuration>
