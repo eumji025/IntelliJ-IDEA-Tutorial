@@ -42,7 +42,11 @@
 |插件名称    |插件介绍      |官网地址        |
 |:-----------------|:----------|:--------------|
 <<<<<<< HEAD
+<<<<<<< HEAD
 |GitOSC|开源中国的码云插件|<https://plugins.jetbrains.com/plugin/8383-gitosc>|
+=======
+|Gitee|开源中国的码云插件|<https://plugins.jetbrains.com/plugin/8383-gitee>|
+>>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
 =======
 |Gitee|开源中国的码云插件|<https://plugins.jetbrains.com/plugin/8383-gitee>|
 >>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
@@ -66,7 +70,10 @@
 |Properties to YAML Converter|把 Properties 的配置格式改为 YAML 格式|<https://plugins.jetbrains.com/plugin/8000-properties-to-yaml-converter>|
 |Git Flow Integration|Git Flow 的图形界面操作|<https://plugins.jetbrains.com/plugin/7315-git-flow-integration>|
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
 |Rainbow Brackets|对各个对称括号进行着色，方便查看|<https://github.com/izhangzhihao/intellij-rainbow-brackets>|
 |MybatisX|mybatis 框架辅助（免费）|<https://plugins.jetbrains.com/plugin/10119-mybatisx>|
 |Lombok Plugin|Lombok 功能辅助插件|<https://plugins.jetbrains.com/plugin/6317-lombok-plugin>|
@@ -75,6 +82,9 @@
 |iedis|redis客户端|<https://plugins.jetbrains.com/plugin/9228-iedis>|
 |VisualVM Launcher|项目启动的时候也启动 VisualVM|<https://plugins.jetbrains.com/plugin/7115-visualvm-launcher>|
 |GenerateAllSetter|new POJO类的快速生成 set 方法|<https://plugins.jetbrains.com/plugin/9360-generateallsetter>|
+<<<<<<< HEAD
+>>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
+=======
 >>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
 
 ## lombok 插件的使用

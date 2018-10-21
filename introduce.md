@@ -11,7 +11,11 @@
 > * [CLion](http://www.jetbrains.com/clion/ "CLion 主要用于开发 C/C++") 主要用于开发 C / C++
 > * [WebStorm](http://www.jetbrains.com/webstorm/ "WebStorm 主要用于开发 JavaScript 等前端技术") 主要用于开发 JavaScript、HTML5、CSS3 等前端技术
 <<<<<<< HEAD
+<<<<<<< HEAD
 > * [0xDBE](http://www.jetbrains.com/dbe/ "0xDBE 主要用于开发 SQL") 主要用于开发 SQL
+=======
+> * [DataGrip](http://www.jetbrains.com/dbe/ "DataGrip 主要用于开发 SQL") 主要用于开发 SQL
+>>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
 =======
 > * [DataGrip](http://www.jetbrains.com/dbe/ "DataGrip 主要用于开发 SQL") 主要用于开发 SQL
 >>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd

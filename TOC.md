@@ -23,6 +23,7 @@
 - [23. Maven 结构项目搭建](maven-project-introduce.md)
 - [24. IntelliJ IDEA 配合 Maven 的一些要点](maven-skill-introduce.md)
 <<<<<<< HEAD
+<<<<<<< HEAD
 - [25. Maven 的单模块 / 多模块 Spring MVC + Spring + Mybatis 项目（重点）](maven-java-web-project-introduce.md)
 - [26. Maven 的单模块 Spring MVC + Spring + Spring Data JPA 项目](maven-java-web-project-introduce2.md)
 - [27. Maven 的单模块 Spring Boot 项目](maven-java-web-project-introduce3.md)
@@ -42,6 +43,8 @@
 - [41. IntelliJ IDEA 插件开发视频教程](plugins-develop.md)
 - [42. 本教程总结](this-tutorial-the-end.md)
 =======
+=======
+>>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
 - [25. Maven 的单模块 / 多模块 Spring MVC + Spring + Mybatis 项目（新人重点）](maven-java-web-project-introduce.md)
 - [26. Maven 的单模块 Spring MVC + Spring + Spring Data JPA 项目](maven-java-web-project-introduce2.md)
 - [27. Maven 的单模块 Spring Boot 项目](https://github.com/judasn/SpringBoot-Simple-Demo-From-YouMeek)
@@ -61,4 +64,7 @@
 - [41. 最特殊的快捷键 Alt + Enter 介绍（新用户必看）](hotkey-alt-enter-introduce.md)
 - [42. IntelliJ IDEA 插件开发视频教程](plugins-develop.md)
 - [43. 本教程总结](this-tutorial-the-end.md)
+<<<<<<< HEAD
+>>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
+=======
 >>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd

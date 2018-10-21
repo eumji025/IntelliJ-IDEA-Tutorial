@@ -17,8 +17,12 @@
 	- `08_把插件上传到公共仓库`
 - 视频教程下载地址
 <<<<<<< HEAD
+<<<<<<< HEAD
 	- 原下载地址：<http://pan.baidu.com/s/1nv79ptZ>
 	- 备用下载地址：<http://pan.baidu.com/s/1eSoQHoA>，密码：gqo2，如果哪天下载地址失效，请在本 Github 项目发 Issues。
+=======
+	- 下载地址：<https://pan.baidu.com/s/1i7grrpV>，密码：gnpl，如果哪天下载地址失效，请在本 Github 项目发 Issues。
+>>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
 =======
 	- 下载地址：<https://pan.baidu.com/s/1i7grrpV>，密码：gnpl，如果哪天下载地址失效，请在本 Github 项目发 Issues。
 >>>>>>> a3624f29b0f222f6c2e96093fc4e7bf9875e11dd
